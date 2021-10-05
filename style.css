@@ -1,0 +1,66 @@
+.custom-header {
+  font-size:40px;
+   text-align: center;
+   color:green;
+  border-width: 5px;
+  border-style:dotted;
+  border-color:green;
+  text-align: center;
+   font-family: "Amatic SC", cursive;
+   font-weight: bold;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+  background-color: #F5F5DC;
+}
+
+img {
+   border-style:dotted;
+  border-color:green;
+  display:center;
+  border-width: 5px;
+  padding: 20px 20px 20px 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+   #img-caption{text-align: center;
+   font-family: "Amatic SC", cursive;
+   font-size: 15px;
+   font-weight: bold;
+   color: #ccf424;
+   padding: 0;
+   margin: 0;
+font-weight: darker;}
+
+
+#tribute-info
+{text-align: center;
+   font-family: "Amatic SC", cursive;
+   font-size: 30px;
+   font-weight: bold;
+   color: #ccf424;
+   padding: 0;
+   margin: 0;}
+
+h2{font-family: "Amatic SC", cursive;
+   font-size: 15px;
+   font-weight: bold;
+   color: #ccf424;
+   padding: 0;
+  margin: 0;}
+
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+ display:block;
+
+}
